@@ -10,6 +10,9 @@ function App() {
         alignItems: 'center',
         marginTop: 200
       }}>This is a react app</h1>
+      <button>
+        Click this button
+      </button>
     </div>
   );
 }
